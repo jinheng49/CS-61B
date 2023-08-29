@@ -1,4 +1,4 @@
-package ex;
+
 public class HelloNumbers {
     public static void main(String[] args){
         int x=0,sum=0;
